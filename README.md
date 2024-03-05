@@ -1,1 +1,1 @@
-# Graph-JS
+# Graphical-JS
